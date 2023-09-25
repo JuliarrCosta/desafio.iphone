@@ -32,6 +32,7 @@ public class Iphone {
 
         this.reprodutorInstalado = new ReprodutorMusical();
         this.navegadorInstalado = new Navegador();
+        this.telefoneInstalado = new Telefone();
 
     }
     public void mostrarDados(){
