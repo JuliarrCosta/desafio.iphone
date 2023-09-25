@@ -1,18 +1,35 @@
-## Getting Started
+<h1 align="center"> DESAFIO IPHONE</h1>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descrição
+Esse projeto possui interfaces para implementar os métodos dos aplicativos: Reprodutor Musical, Navegador e Telefone. Além disso, há uma classe auxiliar chamada música para que o reprodutor musical implemente um Set de musicas. 
+O navegador busca ter alguns conceitos básicos de redes (podendo melhorar) e o telefone apenas com as funcionalidades básicas exigidas no desafio.
 
-## Folder Structure
+## Funcionalidades
+* <b>Funcionalidade 1</b>: Possui um reprdutor musical
+* <b>Funcionalidade 2</b>: Possui um navegador
+* <b>Funcionalidade 3</b>: Possui um central de ligacões
 
-The workspace contains two folders by default, where:
+## Tecnologias utilizadas
+* Java
+* StarUML
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+##  Implementação futura
+* Map de agenda telefonica, onde a chave será o nome do contato e o valor o número.
+* Conceitos de Rede de Computadores.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Diagrama UML
+<table>
+  <tr>
+    <td align="center">
+      <a>
+        <img src="DesafioBootcamp.jpg" width="100px;" alt="Foto do diagrama"/><br>
+        <sub>
+          <b>Autor: Julia Costa</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## :dart: Status do projeto
+Em andamento.
