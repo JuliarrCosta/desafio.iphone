@@ -16,6 +16,7 @@ O navegador busca ter alguns conceitos básicos de redes (podendo melhorar) e o 
 ##  Implementação futura
 * Map de agenda telefonica, onde a chave será o nome do contato e o valor o número.
 * Conceitos de Rede de Computadores.
+* Tratamento de Erros
 
 ## Diagrama UML
 <table>
