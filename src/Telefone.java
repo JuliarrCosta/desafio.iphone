@@ -7,7 +7,7 @@ public class Telefone implements InterfaceAparelhoTelefonico{
 
     @Override
     public void atender() {
-        System.err.println("Atender");
+        System.out.println("Atender");
         this.statusLigacao = true;
         
     }
